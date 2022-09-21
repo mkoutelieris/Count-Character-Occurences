@@ -1,3 +1,9 @@
+/*
+    This program counts the number of times a character exists in a given character array
+    and it returns a HashMap with each individual character as key and the amount of times
+    it was found in the array as value.
+*/
+
 import java.util.*;
 
 public class CharOcc {
